@@ -162,5 +162,3 @@ How often will you merge?
 
 How will you communicate that it’s time to merge?
 - We'll have open pull requests that we'll merge during our review meetings
-
-[Going forward, README.md is maintained in the Thymely App Repo](https://github.com/thymely-apps/thymely)
